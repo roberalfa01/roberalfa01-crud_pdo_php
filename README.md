@@ -1,1 +1,3 @@
-# roberalfa01-crud_pdo_php
+Ejemplo Basico
+Crud con conexión a base de datos PDO orientado a Objeto
+Listar - Agragar - Editar - Eliminar
