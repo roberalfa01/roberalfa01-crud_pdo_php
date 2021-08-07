@@ -1,5 +1,5 @@
 ## Ejemplo Básico
 Crud con conexión a base de datos PDO orientado a Objeto: Listar - Agregar - Editar - Eliminar
 
-Debes importar en tu phpMyAdmin labase de datos y tablas que estan en el archivo pdo_crud.sql
+Debes importar en tu phpMyAdmin la base de datos y tabla que estan en el archivo pdo_crud.sql
 
